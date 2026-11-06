@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="shunxinyi" />
+<img src="https://aka.doubaocdn.com/s/1ZKgvHmZcu" width="100%" alt="shunxinyi（顺心意）" />
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=6C8CFF&center=true&vCenter=true&width=560&lines=Fullstack+Developer+%7C+Agent+Builder;Reading+source+code%2C+learning+how+it+works;Shipping+tools%2C+not+just+demos" /></a>
 
