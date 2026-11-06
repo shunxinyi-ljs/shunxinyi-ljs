@@ -27,6 +27,14 @@
 
 ## 🚀 Projects & Contributions
 
+### 自研工具
+
+| 项目 | 说明 |
+| :--- | :--- |
+| **[issue-pr-lint](https://github.com/shunxinyi-ljs/issue-pr-lint)** | 给 AI 编码助手用的 Issue / PR 提交前审查 skill。<br>把文案拆成断言，按证据强度分级，判"无证据"之前强制先检索代码；改动涉及错误码 / 默认值时检查下游引用。<br>`Claude Code Skill` · `Markdown` |
+
+### 开源贡献
+
 > 目前开源 PR 还在提交中，尚未合并；合并之后再补链接，现在先占位。
 
 
