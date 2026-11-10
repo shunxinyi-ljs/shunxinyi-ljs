@@ -35,17 +35,6 @@
 | :--- | :--- |
 | **[oss-pr-flow](https://github.com/shunxinyi-ljs/oss-pr-flow)** | 开源 PR 全流程 SOP：选题判据、修复闸门、证据审查、发布纪律。给 AI 编码助手用的 skill，装上就按同一套标准推进一个 PR。 |
 
-## 🧩 Open Source Contributions
-
-<!-- prs:start -->
-只列已合并的 PR（共 10 条）：
-
-| 仓库 | 已合并 PR | 做了什么 |
-| :--- | :--- | :--- |
-| **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** | [#8022](https://github.com/bytedance/deer-flow/pull/8022) | 未安装中文分词器时，中文子词召回失败（`memory_search` 返回空结果） |
-| **[Tencent-Hunyuan/Hy-Memory](https://github.com/Tencent-Hunyuan/Hy-Memory)** | [#362](https://github.com/Tencent-Hunyuan/Hy-Memory/pull/362) [#368](https://github.com/Tencent-Hunyuan/Hy-Memory/pull/368) [#370](https://github.com/Tencent-Hunyuan/Hy-Memory/pull/370) [#394](https://github.com/Tencent-Hunyuan/Hy-Memory/pull/394) [#395](https://github.com/Tencent-Hunyuan/Hy-Memory/pull/395) [#397](https://github.com/Tencent-Hunyuan/Hy-Memory/pull/397) [#398](https://github.com/Tencent-Hunyuan/Hy-Memory/pull/398) [#405](https://github.com/Tencent-Hunyuan/Hy-Memory/pull/405) [#407](https://github.com/Tencent-Hunyuan/Hy-Memory/pull/407) | 记忆写盘与迁移可重放、检索时间戳归一、错误分类与截断上报、日志 stdout 清理 |
-<!-- prs:end -->
-
 ## 📊 GitHub Activity
 
 <p align="center">
