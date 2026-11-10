@@ -32,10 +32,15 @@
 | 项目 | 说明 |
 | :--- | :--- |
 | **[issue-pr-lint](https://github.com/shunxinyi-ljs/issue-pr-lint)** | 给 AI 编码助手用的 Issue / PR 提交前审查 skill。<br>把文案拆成断言，按证据强度分级，判"无证据"之前强制先检索代码；改动涉及错误码 / 默认值时检查下游引用。<br>`Claude Code Skill` · `Markdown` |
+| **[oss-pr-flow](https://github.com/shunxinyi-ljs/oss-pr-flow)** | 开源 PR 全流程 SOP：选题判据、修复闸门、证据审查、发布纪律。 |
 
 ### 开源贡献
 
-> 目前开源 PR 还在提交中，尚未合并；合并之后再补链接，现在先占位。
+| PR | 项目 | 做了什么 | 状态 |
+| :--- | :--- | :--- | :--- |
+| **[#8022](https://github.com/bytedance/deer-flow/pull/8022)** | bytedance/deer-flow | 未安装中文分词器时，中文子词召回失败（`memory_search` 返回空结果） | ✅ 已合并 |
+| **[#8027](https://github.com/bytedance/deer-flow/pull/8027)** | bytedance/deer-flow | FTS5 索引报错被静默吞成空结果，用户看到的是"什么都没搜到" | 🔍 评审中 |
+| **[#8108](https://github.com/bytedance/deer-flow/pull/8108)** | bytedance/deer-flow | 记忆抽取被输出上限截断时静默失败，说过的事落不了库 | 🔍 评审中 |
 
 
 
