@@ -49,7 +49,7 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shunxinyi-ljs/shunxinyi-ljs/output/github-snake.svg" alt="GitHub 贡献贪吃蛇" />
+  <img src="https://cdn.jsdelivr.net/gh/shunxinyi-ljs/shunxinyi-ljs@output/github-snake.svg" alt="GitHub 贡献贪吃蛇" />
 </p>
 
 
