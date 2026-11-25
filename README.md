@@ -7,7 +7,7 @@
 
 ![Focus](https://img.shields.io/badge/FOCUS-AGENT%20%26%20FULLSTACK-4f46e5?style=for-the-badge)
 <!-- prs:badge:start -->
-<img src="https://img.shields.io/badge/MERGED%20PRs-13-4f46e5?style=for-the-badge" alt="Merged PRs 13" />
+<img src="https://img.shields.io/badge/MERGED%20PRs-15-4f46e5?style=for-the-badge" alt="Merged PRs 15" />
 <!-- prs:badge:end -->
 <img src="https://img.shields.io/github/followers/shunxinyi-ljs?style=for-the-badge&color=0EA5E9" alt="GitHub followers" />
 
